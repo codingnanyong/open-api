@@ -1,0 +1,6 @@
+{
+  "database": {
+    "FDW_HQ_URL": "postgresql+asyncpg://{DB_USER}:{DB_PASSWORD}@{DB_HOST}:{DB_PORT}/hq",
+    "FDW_VJ_URL": "postgresql+asyncpg://{DB_USER}:{DB_PASSWORD}@{DB_HOST}:{DB_PORT}/vj"
+  }
+}
